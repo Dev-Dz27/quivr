@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.0.95 (2023-10-20)
+
+## What's Changed
+* feat: homepage first section by @matthieujacq in https://github.com/StanGirard/quivr/pull/1439
+* fix: show a flat gradient in the UseCase section by @matthieujacq in https://github.com/StanGirard/quivr/pull/1440
+* style: update testimonials display by @mamadoudicko in https://github.com/StanGirard/quivr/pull/1441
+* feat: fetch homepage data from CMS by @mamadoudicko in https://github.com/StanGirard/quivr/pull/1452
+* feat: contact sales page (front layout) by @matthieujacq in https://github.com/StanGirard/quivr/pull/1451
+
+
+**Full Changelog**: https://github.com/StanGirard/quivr/compare/v0.0.94...v0.0.95
+
 ## 0.0.94 (2023-10-19)
 
 ## What's Changed
